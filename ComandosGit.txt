@@ -13,3 +13,6 @@ git pull: traer los cambios del repo remoto.
 git tag [nombre] "[desc].
 git push --tag
 git clone [link].
+
+
+Aca se agregan boludeces para ver los conflictos
