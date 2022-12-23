@@ -1,0 +1,15 @@
+git init: inicializar repositorio local. 
+git add: agragar a la stageing area (area previa a los commit).
+git status -s: comprobar el estado de los archivos de la carpeta. 
+git status.
+git commit -m: commitear los archivos de la stageing area al repo local. 
+git log --oneline: listado de los commits.
+git reset --hard [codigo del commit x]: hard reset al commit x.
+git commit --amend: modificar el ultimo commit. 
+---Conectar a github ---
+git remote add origin [link repo].
+git push -u origin main
+git pull: traer los cambios del repo remoto. 
+git tag [nombre] "[desc].
+git push --tag
+git clone [link].
