@@ -1,1 +1,1 @@
-Este es un texto simplemente para practicar la ramificación de git.
+He comenzado a aprender git con con tortoiseGit. este será mi primer commit push.
