@@ -1,1 +1,2 @@
 He comenzado a aprender git con con tortoiseGit. este será mi primer commit push.
+este es un simple cambio para practicar fetch y pull. 
