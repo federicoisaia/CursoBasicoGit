@@ -13,6 +13,15 @@ git pull: traer los cambios del repo remoto.
 git tag [nombre] "[desc].
 git push --tag
 git clone [link].
-
-
-Aca se agregan boludeces para ver los conflictos
+git fetch: se traen los cambios del repositorio remoto pero no se aplican al respositorio local. 
+git merge origin/master: aplica los cambios que trajo git fetch al repo local.
+git pull: hace por debajo un fetch + merge origin/master.
+git push -u origin [nombre branch] : hace una rama de seguimiento a la rama remota []
+git branch --set-upstrem-to:origin/master [nombre rama]: lo mismo q lo anterior pero luego de hacer push. 
+git stash: almacena mi espacio de trabajo (archivos agregados pero no commiteados)
+git stash list: lista los stash pendientes
+git stash pop: devuelve el stash al espacio de trabajo. 
+git commit --amend: modificar el último commit. 
+git reset commit: deshacer cambios en el area de staging y espacio de trabajo y retroceder en la historia de commits. (hard y soft).
+git rebase -i HEAD[^]: modificar los ulimos [] commits.
+git reflog : matneiene un registro de todos los cambios sobre las rama sy el head. 
