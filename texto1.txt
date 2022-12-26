@@ -2,3 +2,4 @@ He comenzado a aprender git con con tortoiseGit. este será mi primer commit pus
 este es un simple cambio para practicar fetch.
 Ahora intentamos con pull. 
 creamos un branch develop.
+Para el merge editamos en ambas ramas en la mismsa linea. 
