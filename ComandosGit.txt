@@ -24,4 +24,4 @@ git stash pop: devuelve el stash al espacio de trabajo.
 git commit --amend: modificar el último commit. 
 git reset commit: deshacer cambios en el area de staging y espacio de trabajo y retroceder en la historia de commits. (hard y soft).
 git rebase -i HEAD[^]: modificar los ulimos [] commits.
-git reflog : matneiene un registro de todos los cambios sobre las rama sy el head. 
+git reflog : matneiene un registro de todos los cambios sobre las ramas y el head. 
